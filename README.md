@@ -10,7 +10,7 @@ This project demonstrates basic C++ concepts such as loops, conditionals, functi
 ## 👨‍💻 Author
 **Shivansh Vishwakarma**  
 📅 *Created in October 2025*  
-🧾 *Version 1.1*
+🧾 *Version 1.0*
 
 ---
 
